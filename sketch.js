@@ -1,7 +1,7 @@
 const Engine = Matter.Engine;
 const World = Matter.World;
 const Bodies = Matter.Bodies;
-var  thunder1,thunder2,thunder3,thunder4;
+var  thunder, thunder1,thunder2,thunder3,thunder4;
 
 var engine, world;
 var drops = [];
